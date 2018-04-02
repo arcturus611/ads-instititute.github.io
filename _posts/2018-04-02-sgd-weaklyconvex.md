@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Stochastic subgradient method converges at the rate \(O(k^{-1/4})\) on weakly convex functions
-date:       2018-03-31
+date:       2018-04-02
 summary:    Recent breakthrough on using proximal stochastic gradient method for weakly convex functions.
 author:     Damek Davis and Dmitriy Drusvyatskiy
 image:      images/stoch_subg_weak_conv.jpeg
